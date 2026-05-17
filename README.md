@@ -22,9 +22,19 @@ Aapke system mein `g++` compiler hona chahiye.
 ```bash
 git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
 ```
- ```
+```
 cd Xor_security_encryption
-
+ls
+clang++ xormaker.cpp -o xormaker
+```
+If you have gcc then 
+```
+cd Xor_security_encryption
+ls
+g++ xormaker.cpp -o xormaker
+```
+```
+./xormaker
 ```
    ## FOR ENGLISH PEOPLES
 
@@ -53,5 +63,16 @@ git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
 ```
 ```
 cd Xor_security_encryption
+ls
+clang++ xormaker.cpp -o xormaker
+```
 
+If you have gcc compiler 
+```
+cd Xor_security_encryption
+ls
+g++ xormaker.cpp -o xormaker
+```
+```
+./xormaker
 ```

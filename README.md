@@ -1,5 +1,5 @@
-# Xor_security_encryption
-For My Indian Peoples 
+
+## For My Indian Peoples (scroll for english 👇👇)
 # XOR Security Encryption Tool 🛡️
 
 Ye ek lightweight C++ tool hai jo strings aur IPs ko XOR encryption ke zariye hide karne aur wapas decrypt karne ke kaam aata hai. Iska maqsad cybersecurity research aur data obfuscation ko samajhna hai.
@@ -23,10 +23,10 @@ Aapke system mein `g++` compiler hona chahiye.
 git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
 ```
  ```
-Xor_security_encryption.git
+cd Xor_security_encryption
 
 ```
- For English peoples 
+   ## FOR ENGLISH PEOPLES
 
  # XOR Cipher: Data Obfuscation Tool 🛡️
 
@@ -52,6 +52,6 @@ Ensure you have a C++ compiler (`g++` or `clang`) installed.
 git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
 ```
 ```
-Xor_security_encryption.git
+cd Xor_security_encryption
 
 ```

@@ -20,10 +20,12 @@ Aapke system mein `g++` compiler hona chahiye.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/DOMINATER-69/Xor_security_encryption.git](https://github.com/DOMINATER-69/Xor_security_encryption.git)
-cd Xor_security_encryption
+git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
 ```
- 
+ ```
+Xor_security_encryption.git
+
+```
  For English peoples 
 
  # XOR Cipher: Data Obfuscation Tool 🛡️
@@ -47,6 +49,9 @@ Ensure you have a C++ compiler (`g++` or `clang`) installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/DOMINATER-69/Xor_security_encryption.git](https://github.com/DOMINATER-69/Xor_security_encryption.git)
-cd Xor_security_encryption
+git clone https://github.com/DOMINATER-69/Xor_security_encryption.git
+```
+```
+Xor_security_encryption.git
+
 ```
